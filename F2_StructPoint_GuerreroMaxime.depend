@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1528360108 source:c:\users\maxime\desktop\ludus 2eme année\2-c++ (jeudi 11h-13h)\f2_structpoint_guerreromaxime\list.c
+	"liste.h"
+
+1528360081 c:\users\maxime\desktop\ludus 2eme année\2-c++ (jeudi 11h-13h)\f2_structpoint_guerreromaxime\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528360113 source:c:\users\maxime\desktop\ludus 2eme année\2-c++ (jeudi 11h-13h)\f2_structpoint_guerreromaxime\main.c
+	"liste.h"
+
+1528363595 source:c:\users\maxime\desktop\ludus 2eme année\autre\f2_structpoint_guerreromaxime\list.c
+	"liste.h"
+
+1528363363 c:\users\maxime\desktop\ludus 2eme année\autre\f2_structpoint_guerreromaxime\liste.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1528364313 source:c:\users\maxime\desktop\ludus 2eme année\autre\f2_structpoint_guerreromaxime\main.c
+	"liste.h"
+
